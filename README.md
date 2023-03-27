@@ -18,7 +18,8 @@ A curated list of awesome resources, tools, and projects related to sustainable 
 ### Guides and Articles
 
 ### Tools
-[Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - A project to estimate and compare the carbon emissions of popular cloud providers. Deploy on your own infrastructure and get insights into your own carbon emissions
+[Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - A project to estimate and compare the carbon emissions of popular cloud providers. Deploy on your own infrastructure and get insights into your own carbon emissions.
+
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-9cf?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square)
 
 
