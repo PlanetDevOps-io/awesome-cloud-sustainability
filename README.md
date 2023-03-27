@@ -1,6 +1,7 @@
 # Awesome Cloud Sustainability
 
 A curated list of awesome resources, tools, and projects related to sustainable cloud computing and infrastructure.
+This list is work in progress so feel free to add your resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -34,13 +35,12 @@ Best,
     - [Events](#events)
     - [Communities](#communities)
     - [Contributing](#contributing)
-    - [License](#license)
   
 ### Tools
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - A project to estimate and compare the carbon emissions of popular cloud providers. Deploy on your own infrastructure and get insights into your own carbon emissions.
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-9cf?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square)
 
-- [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - An open-source tool to estimate the carbon emissions and cost of running cloud infrastructure.
+- [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - An open-source tool to estimate the carbon emissions and cost of running cloud infrastructure. ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square)
 
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - A Software Development Kit by the Green Software Foundation for building carbon-efficient applications.
 
@@ -73,7 +73,6 @@ These tools are provided by the vendors themselves. Be aware on what they measur
 - [Google Cloud Skills Boost - Sustainable Computing](https://www.cloudskillsboost.google/focuses/32138?parent=catalog) - A Google Cloud training course covering sustainable computing practices on the Google Cloud Platform. ![GCP](https://img.shields.io/badge/GCP-9cf?style=flat-square) 
 
 ### Vendor Specific Info
-The following pages are written by the vendors themselves, verify the information independently. 
 - [Azure Sustainability](https://azure.microsoft.com/en-us/explore/global-infrastructure/sustainability/) - Microsoft's approach to sustainability in their global data center infrastructure. ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square) 
 
 - [Google Cloud Sustainability](https://cloud.google.com/sustainability) - Google's initiatives and strategies for sustainable cloud computing. ![GCP](https://img.shields.io/badge/GCP-9cf?style=flat-square)
@@ -84,12 +83,8 @@ The following pages are written by the vendors themselves, verify the informatio
 - [SustainabilityCon](https://events.linuxfoundation.org/open-source-summit-north-america/about/sustainabilitycon/) - A conference co-located with Open Source Summit North America, focusing on the intersection of open source technologies and sustainability efforts.
 
 ### Communities
-- [ClimateAction.tech](https://climateaction.tech/) - A global community of tech professionals committed to driving change and supporting climate action initiatives in the tech industry.
+- [ClimateAction.tech](https://climateaction.tech/) - A global community of tech professionals committed to driving change and supporting climate action initiatives in the tech industry. Great Slack community!
 
 
 ### Contributing
-Contributions are very welcome, just raise an issue, open a PR or even reach out on Twitter and it will be added to the repository. 
-
-### License
-
-This repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Contributions are very welcome, just raise an issue, open a PR or reach out on [Twitter](https://twitter.com/edwin4_)/[LinkedIn](https://www.linkedin.com/in/edwinrad/) and it will be added to the repository. 
